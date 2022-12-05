@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   213;Athenstedt;18980601;20070430
+   213;Sargstedt;20070501;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+   213;Wetterdienst;18980601;19491231
+   213;Meteorologischer Dienst der DDR;19500101;19901231
+   213;DWD;19910101;
+generiert: 05.12.2022 --  Deutscher Wetterdienst  --
